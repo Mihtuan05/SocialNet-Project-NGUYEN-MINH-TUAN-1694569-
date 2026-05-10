@@ -1,5 +1,6 @@
 SocialNet-Mock-Project
 A mock project named SocialNet, guided by Mr. Tung in course CS451.
+Link video test website: https://drive.google.com/drive/folders/1qm7-BRDhHSyZD7LFK9ERN-GIq1Ye9eiw
 
 Project Owner:
 - Name: Nguyen Minh Tuan
